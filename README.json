@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Companies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pioneers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "This work and all contributions to it are released into the public domain under the terms of the CC0 1.0.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:43.809Z",
+    "original_repository": "opencompany/awesome-open-company",
+    "original_repository_sha": "8bd9890f69cd4b7b51b8c100a6e64f028f47b611",
+    "enhanced_repository": "enhansome/enhansome-open-company",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open Company with stars"
+  }
+}
