@@ -1,7 +1,269 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Arduino LLC",
+          "description": "Arduino - Introduction :octocat:Arduino",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 919161,
+            "language": "Java",
+            "last_commit": "2025-10-11T09:27:40Z",
+            "owner": "arduino",
+            "repo": "Arduino",
+            "stars": 14641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Axem",
+          "description": "DEM :octocat:DEM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 593340394,
+            "language": "Python",
+            "last_commit": "2026-05-31T12:45:55Z",
+            "owner": "axem-solutions",
+            "repo": "dem",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bevry",
+          "description": "Bevry DocPad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1490034,
+            "language": "CoffeeScript",
+            "last_commit": "2024-02-11T13:53:58Z",
+            "owner": "docpad",
+            "repo": "docpad",
+            "stars": 3044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeCombat",
+          "description": "CodeCombat - Learn how to code by playing a game :octocat:CodeCombat Why you should open-source your startup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15193430,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T06:53:50Z",
+            "owner": "codecombat",
+            "repo": "codecombat",
+            "stars": 8550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 753490180,
+            "language": null,
+            "last_commit": "2026-07-24T07:12:07Z",
+            "owner": "daytonaio",
+            "repo": "daytona",
+            "stars": 71891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daytona",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 753490180,
+            "language": null,
+            "last_commit": "2026-07-24T07:12:07Z",
+            "owner": "daytonaio",
+            "repo": "daytona",
+            "stars": 71891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Documenso",
+          "description": "The Documenso Manifest :octocat:Documenso Announcing Open Metrics Open Metrics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 613010835,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:29:26Z",
+            "owner": "documenso",
+            "repo": "documenso",
+            "stars": 14714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gratipay",
+          "description": "Welcome to Gratipay :octocat:All Products The first open company Finance",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 49219080,
+            "language": "Python",
+            "last_commit": "2017-06-24T18:22:38Z",
+            "owner": "gratipay",
+            "repo": "finances",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Growstuff",
+          "description": "(archive) Values - Growstuff Wiki :octocat:Growstuff Why Growstuff is open source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5337437,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T12:03:57Z",
+            "owner": "Growstuff",
+            "repo": "growstuff",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neocities",
+          "description": "(archive) Neocities - stats :octocat:Neocities.org The first Neocities Open Company report",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18715057,
+            "language": "JavaScript",
+            "last_commit": "2026-08-18T02:35:12Z",
+            "owner": "neocities",
+            "repo": "neocities",
+            "stars": 1898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Niteo",
+          "description": "Niteo Handbook :octocat:Pareto Security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93639303,
+            "language": "Makefile",
+            "last_commit": "2026-08-02T15:51:16Z",
+            "owner": "teamniteo",
+            "repo": "handbook",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProtonMail",
+          "description": "ProtonMail is Open Source! Web Client; OpenPGPjs ProtonMail Open Source Cryptography",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60692320,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:17:09Z",
+            "owner": "ProtonMail",
+            "repo": "WebClients",
+            "stars": 5559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Read the Docs",
+          "description": "Read the Docs Open Source Philosophy :octocat:readthedocs.org Funding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 841835,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:43:28Z",
+            "owner": "readthedocs",
+            "repo": "readthedocs.org",
+            "stars": 8377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentry",
+          "description": "About Sentry Sentry Driven by Open Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873328,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:12:37Z",
+            "owner": "getsentry",
+            "repo": "sentry",
+            "stars": 44609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tessel",
+          "description": "Open Source - Tessel :octocat:Tessel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33215100,
+            "language": null,
+            "last_commit": "2023-08-30T20:44:34Z",
+            "owner": "tessel",
+            "repo": "project",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wemake.services",
+          "description": "wemake-services/meta § Purpose :octocat:wemake.services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102185438,
+            "language": "HTML",
+            "last_commit": "2025-01-03T19:48:39Z",
+            "owner": "wemake-services",
+            "repo": "meta",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watermelon",
+          "description": "Promoting Openness, Starting With the Codebase :octocat:Watermelon",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 322137505,
+            "language": "TypeScript",
+            "last_commit": "2024-03-07T13:58:40Z",
+            "owner": "watermelontools",
+            "repo": "watermelon",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Companies"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:50:26.998Z",
+    "last_updated": "2026-08-24T14:15:30.902Z",
     "original_repository": "opencompany/awesome-open-company",
     "original_repository_id": 33875441,
     "original_repository_sha": "8bd9890f69cd4b7b51b8c100a6e64f028f47b611",
