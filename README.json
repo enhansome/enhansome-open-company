@@ -15,7 +15,7 @@
             "last_commit": "2025-10-11T09:27:40Z",
             "owner": "arduino",
             "repo": "Arduino",
-            "stars": 14641
+            "stars": 14642
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 15193430,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T06:53:50Z",
+            "last_commit": "2026-08-25T10:14:35Z",
             "owner": "codecombat",
             "repo": "codecombat",
             "stars": 8550
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71887
+            "stars": 71884
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71887
+            "stars": 71884
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 613010835,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:06:10Z",
+            "last_commit": "2026-08-25T10:09:12Z",
             "owner": "documenso",
             "repo": "documenso",
-            "stars": 14734
+            "stars": 14740
           }
         },
         {
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 60692320,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:16:04Z",
+            "last_commit": "2026-08-25T09:07:38Z",
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5559
+            "stars": 5560
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 873328,
             "language": "Python",
-            "last_commit": "2026-08-25T05:46:03Z",
+            "last_commit": "2026-08-25T10:43:51Z",
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 44612
+            "stars": 44613
           }
         },
         {
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:13.668Z",
+    "last_updated": "2026-08-25T10:46:10.808Z",
     "original_repository": "opencompany/awesome-open-company",
     "original_repository_id": 33875441,
     "original_repository_sha": "8bd9890f69cd4b7b51b8c100a6e64f028f47b611",
