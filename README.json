@@ -75,7 +75,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71891
+            "stars": 71887
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71891
+            "stars": 71887
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 613010835,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:29:26Z",
+            "last_commit": "2026-08-25T05:06:10Z",
             "owner": "documenso",
             "repo": "documenso",
-            "stars": 14714
+            "stars": 14734
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-18T02:35:12Z",
             "owner": "neocities",
             "repo": "neocities",
-            "stars": 1898
+            "stars": 1900
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 60692320,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:17:09Z",
+            "last_commit": "2026-08-25T04:16:04Z",
             "owner": "ProtonMail",
             "repo": "WebClients",
             "stars": 5559
@@ -186,13 +186,13 @@
         {
           "node_type": "item",
           "title": "Read the Docs",
-          "description": "Read the Docs Open Source Philosophy :octocat:readthedocs.org Funding",
+          "description": "Read the Docs Open Source Philosophy :octocat:readthedocs.org  Funding",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 841835,
             "language": "Python",
-            "last_commit": "2026-08-24T11:43:28Z",
+            "last_commit": "2026-08-24T21:47:25Z",
             "owner": "readthedocs",
             "repo": "readthedocs.org",
             "stars": 8377
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 873328,
             "language": "Python",
-            "last_commit": "2026-08-24T14:12:37Z",
+            "last_commit": "2026-08-25T05:46:03Z",
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 44609
+            "stars": 44612
           }
         },
         {
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:30.902Z",
+    "last_updated": "2026-08-25T06:05:13.668Z",
     "original_repository": "opencompany/awesome-open-company",
     "original_repository_id": 33875441,
     "original_repository_sha": "8bd9890f69cd4b7b51b8c100a6e64f028f47b611",
