@@ -15,7 +15,7 @@
             "last_commit": "2025-10-11T09:27:40Z",
             "owner": "arduino",
             "repo": "Arduino",
-            "stars": 14642
+            "stars": 14644
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 15193430,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T10:16:55Z",
+            "last_commit": "2026-08-27T11:22:52Z",
             "owner": "codecombat",
             "repo": "codecombat",
             "stars": 8551
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71872
+            "stars": 71864
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71872
+            "stars": 71864
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 613010835,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T10:12:19Z",
+            "last_commit": "2026-08-27T11:23:25Z",
             "owner": "documenso",
             "repo": "documenso",
-            "stars": 14761
+            "stars": 14780
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-18T02:35:12Z",
             "owner": "neocities",
             "repo": "neocities",
-            "stars": 1901
+            "stars": 1900
           }
         },
         {
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 60692320,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T08:17:21Z",
+            "last_commit": "2026-08-27T10:58:59Z",
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5561
+            "stars": 5562
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 841835,
             "language": "Python",
-            "last_commit": "2026-08-26T00:27:58Z",
+            "last_commit": "2026-08-27T11:50:37Z",
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8377
+            "stars": 8379
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 873328,
             "language": "Python",
-            "last_commit": "2026-08-26T10:46:52Z",
+            "last_commit": "2026-08-27T11:57:07Z",
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 44621
+            "stars": 44628
           }
         },
         {
@@ -263,9 +263,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:48:43.870Z",
-    "original_repository": "opencompany/awesome-open-company",
-    "original_repository_id": 33875441,
+    "last_updated": "2026-08-27T11:58:24.711Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 33875441,
+      "language": null,
+      "last_commit": "2024-03-30T16:18:37Z",
+      "owner": "opencompany",
+      "repo": "awesome-open-company",
+      "stars": 1251
+    },
     "original_repository_sha": "8bd9890f69cd4b7b51b8c100a6e64f028f47b611",
     "enhanced_repository": "enhansome/enhansome-open-company",
     "enhanced_repository_description": null,
