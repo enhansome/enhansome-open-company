@@ -16,7 +16,8 @@
             "owner": "arduino",
             "repo": "Arduino",
             "stars": 14644
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "axem-solutions",
             "repo": "dem",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "docpad",
             "repo": "docpad",
             "stars": 3044
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 15193430,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T14:23:15Z",
+            "last_commit": "2026-08-28T11:42:09Z",
             "owner": "codecombat",
             "repo": "codecombat",
             "stars": 8551
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71858
-          }
+            "stars": 71864
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71858
-          }
+            "stars": 71864
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 613010835,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:32:59Z",
+            "last_commit": "2026-08-28T16:06:25Z",
             "owner": "documenso",
             "repo": "documenso",
-            "stars": 14782
-          }
+            "stars": 14792
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "gratipay",
             "repo": "finances",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -132,11 +140,12 @@
             "archived": false,
             "id": 5337437,
             "language": "Ruby",
-            "last_commit": "2026-08-24T12:03:57Z",
+            "last_commit": "2026-08-28T08:28:09Z",
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2026-08-18T02:35:12Z",
             "owner": "neocities",
             "repo": "neocities",
-            "stars": 1900
-          }
+            "stars": 1901
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "teamniteo",
             "repo": "handbook",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 60692320,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:16:04Z",
+            "last_commit": "2026-08-28T20:16:35Z",
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5562
-          }
+            "stars": 5565
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -192,11 +204,12 @@
             "archived": false,
             "id": 841835,
             "language": "Python",
-            "last_commit": "2026-08-27T16:23:22Z",
+            "last_commit": "2026-08-28T18:28:40Z",
             "owner": "readthedocs",
             "repo": "readthedocs.org",
             "stars": 8379
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -207,11 +220,12 @@
             "archived": false,
             "id": 873328,
             "language": "Python",
-            "last_commit": "2026-08-27T20:21:41Z",
+            "last_commit": "2026-08-28T21:10:04Z",
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 44629
-          }
+            "stars": 44640
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "tessel",
             "repo": "project",
             "stars": 373
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "wemake-services",
             "repo": "meta",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         },
         {
           "node_type": "item",
@@ -256,14 +272,15 @@
             "owner": "watermelontools",
             "repo": "watermelon",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T21:10:39.748Z"
         }
       ],
       "title": "Companies"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:22:18.552Z",
+    "last_updated": "2026-08-28T21:10:39.748Z",
     "original_repository_info": {
       "archived": false,
       "id": 33875441,
@@ -271,7 +288,7 @@
       "last_commit": "2024-03-30T16:18:37Z",
       "owner": "opencompany",
       "repo": "awesome-open-company",
-      "stars": 1251
+      "stars": 1252
     },
     "original_repository_sha": "8bd9890f69cd4b7b51b8c100a6e64f028f47b611",
     "enhanced_repository": "enhansome/enhansome-open-company",
