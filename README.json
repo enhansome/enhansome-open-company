@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arduino IDE 1.x",
+            "homepage": "https://www.arduino.cc/en/software",
             "id": 919161,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-11T09:27:40Z",
+            "open_issues": 734,
             "owner": "arduino",
             "repo": "Arduino",
-            "stars": 14644
+            "stars": 14644,
+            "topics": [
+              "arduino",
+              "ide"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -26,12 +34,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Containerized Development Environment Manager for embedded development",
+            "homepage": null,
             "id": 593340394,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-31T12:45:55Z",
+            "open_issues": 9,
             "owner": "axem-solutions",
             "repo": "dem",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "containerization",
+              "containers",
+              "developer-tools",
+              "development-environment",
+              "development-environment-manager",
+              "development-environment-setup",
+              "devops",
+              "devtools",
+              "edge",
+              "edge-computing",
+              "embedded",
+              "embedded-systems",
+              "hacktoberfest",
+              "internal-developer-platform",
+              "iot",
+              "platform-engineering",
+              "toolchains",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -42,12 +74,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before.",
+            "homepage": "https://docpad.bevry.me",
             "id": 1490034,
             "language": "CoffeeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-11T13:53:58Z",
+            "open_issues": 37,
             "owner": "docpad",
             "repo": "docpad",
-            "stars": 3044
+            "stars": 3044,
+            "topics": [
+              "app",
+              "coffeescript",
+              "docpad",
+              "docpad-core",
+              "node",
+              "preprocessor",
+              "static-site-generator",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -58,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game for learning how to code.",
+            "homepage": "http://codecombat.com",
             "id": 15193430,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:42:09Z",
+            "open_issues": 413,
             "owner": "codecombat",
             "repo": "codecombat",
-            "stars": 8551
+            "stars": 8552,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -74,12 +125,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+            "homepage": "https://daytona.io",
             "id": 753490180,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-24T07:12:07Z",
+            "open_issues": 448,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71864
+            "stars": 71864,
+            "topics": [
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "ai-runtime",
+              "ai-sandboxes",
+              "code-execution",
+              "code-interpreter",
+              "developer-tools"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -90,12 +155,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+            "homepage": "https://daytona.io",
             "id": 753490180,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-24T07:12:07Z",
+            "open_issues": 448,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71864
+            "stars": 71864,
+            "topics": [
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "ai-runtime",
+              "ai-sandboxes",
+              "code-execution",
+              "code-interpreter",
+              "developer-tools"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -106,12 +185,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Source DocuSign Alternative.",
+            "homepage": "https://documenso.com",
             "id": 613010835,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:06:25Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:08:37Z",
+            "open_issues": 256,
             "owner": "documenso",
             "repo": "documenso",
-            "stars": 14792
+            "stars": 14795,
+            "topics": [
+              "digital-signature",
+              "document-signing",
+              "docusign-alternative",
+              "e-signature",
+              "esign",
+              "esignature",
+              "next-auth",
+              "nextjs",
+              "open-source",
+              "pades-standard",
+              "pdf",
+              "pdf-sign",
+              "pdf-signature",
+              "postgresql",
+              "prisma",
+              "self-hosted",
+              "signing",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -122,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gratipay's financial accounting system",
+            "homepage": null,
             "id": 49219080,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-06-24T18:22:38Z",
+            "open_issues": 13,
             "owner": "gratipay",
             "repo": "finances",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -138,12 +246,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open data project for small-scale food growers, written in rails",
+            "homepage": "http://growstuff.org/",
             "id": 5337437,
             "language": "Ruby",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T08:28:09Z",
+            "open_issues": 120,
             "owner": "Growstuff",
             "repo": "growstuff",
-            "stars": 473
+            "stars": 473,
+            "topics": [
+              "food",
+              "gardening"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -154,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neocities.org - the web site. Yep, the backend is open source!",
+            "homepage": "https://neocities.org",
             "id": 18715057,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T02:35:12Z",
+            "open_issues": 95,
             "owner": "neocities",
             "repo": "neocities",
-            "stars": 1901
+            "stars": 1902,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -170,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Niteo Handbook",
+            "homepage": null,
             "id": 93639303,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2026-08-02T15:51:16Z",
+            "open_issues": 4,
             "owner": "teamniteo",
             "repo": "handbook",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -186,12 +312,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monorepo hosting the proton web clients",
+            "homepage": null,
             "id": 60692320,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T20:16:35Z",
+            "open_issues": 145,
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5565
+            "stars": 5565,
+            "topics": [
+              "monorepo",
+              "pgp",
+              "protoncalendar",
+              "protoncontacts",
+              "protondrive",
+              "protonmail",
+              "react",
+              "webmail",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -202,12 +343,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code that powers readthedocs.org",
+            "homepage": "https://readthedocs.org/",
             "id": 841835,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:28:40Z",
+            "open_issues": 391,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8379
+            "stars": 8379,
+            "topics": [
+              "docs",
+              "mkdocs",
+              "python",
+              "sphinx",
+              "sphinx-doc"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -218,12 +370,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Developer-first error tracking and performance monitoring",
+            "homepage": "https://sentry.io",
             "id": 873328,
             "language": "Python",
-            "last_commit": "2026-08-28T21:10:04Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:35:09Z",
+            "open_issues": 2243,
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 44640
+            "stars": 44644,
+            "topics": [
+              "apm",
+              "crash-reporting",
+              "crash-reports",
+              "csp-report",
+              "devops",
+              "django",
+              "error-logging",
+              "error-monitoring",
+              "fair-source",
+              "hacktoberfest",
+              "monitor",
+              "monitoring",
+              "python",
+              "sentry",
+              "tag-production"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -234,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source Tessel Project. Start here!",
+            "homepage": "https://tessel.io/",
             "id": 33215100,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-30T20:44:34Z",
+            "open_issues": 29,
             "owner": "tessel",
             "repo": "project",
-            "stars": 373
+            "stars": 373,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -250,12 +428,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Home of Repeatable Software Development Process",
+            "homepage": "https://wemake-services.github.io/meta/",
             "id": 102185438,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-03T19:48:39Z",
+            "open_issues": 41,
             "owner": "wemake-services",
             "repo": "meta",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "business",
+              "business-process",
+              "management",
+              "methodology",
+              "rspd",
+              "software-development"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         },
@@ -266,12 +456,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🍉 Open-Source Copilot For Code Review",
+            "homepage": "https://app.watermelontools.com",
             "id": 322137505,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-07T13:58:40Z",
+            "open_issues": 9,
             "owner": "watermelontools",
             "repo": "watermelon",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "code-review",
+              "documentation",
+              "open-source",
+              "pull-requests"
+            ]
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
         }
@@ -280,15 +480,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:10:39.748Z",
+    "last_updated": "2026-08-29T04:32:03.553Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A community-curated list of awesome open companies.",
+      "homepage": null,
       "id": 33875441,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-30T16:18:37Z",
+      "open_issues": 12,
       "owner": "opencompany",
       "repo": "awesome-open-company",
-      "stars": 1252
+      "stars": 1253,
+      "topics": []
     },
     "original_repository_sha": "8bd9890f69cd4b7b51b8c100a6e64f028f47b611",
     "enhanced_repository": "enhansome/enhansome-open-company",
