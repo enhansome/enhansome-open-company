@@ -19,7 +19,7 @@
             "open_issues": 735,
             "owner": "arduino",
             "repo": "Arduino",
-            "stars": 14660,
+            "stars": 14662,
             "topics": [
               "arduino",
               "ide"
@@ -43,7 +43,7 @@
             "open_issues": 9,
             "owner": "axem-solutions",
             "repo": "dem",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "containerization",
               "containers",
@@ -109,8 +109,8 @@
             "id": 15193430,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T15:30:50Z",
-            "open_issues": 409,
+            "last_commit": "2026-10-13T17:30:11Z",
+            "open_issues": 411,
             "owner": "codecombat",
             "repo": "codecombat",
             "stars": 8573,
@@ -134,7 +134,7 @@
             "open_issues": 458,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71559,
+            "stars": 71551,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -164,7 +164,7 @@
             "open_issues": 458,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71559,
+            "stars": 71551,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -190,11 +190,11 @@
             "id": 613010835,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T18:10:05Z",
-            "open_issues": 214,
+            "last_commit": "2026-10-13T16:10:09Z",
+            "open_issues": 215,
             "owner": "documenso",
             "repo": "documenso",
-            "stars": 15399,
+            "stars": 15402,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -251,8 +251,8 @@
             "id": 5337437,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T19:38:04Z",
-            "open_issues": 148,
+            "last_commit": "2026-10-13T07:01:28Z",
+            "open_issues": 153,
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 474,
@@ -279,7 +279,7 @@
             "open_issues": 100,
             "owner": "neocities",
             "repo": "neocities",
-            "stars": 1917,
+            "stars": 1918,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
@@ -317,11 +317,11 @@
             "id": 60692320,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T16:16:21Z",
+            "last_commit": "2026-10-13T16:16:53Z",
             "open_issues": 161,
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5636,
+            "stars": 5637,
             "topics": [
               "monorepo",
               "pgp",
@@ -348,11 +348,11 @@
             "id": 841835,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T13:29:24Z",
-            "open_issues": 403,
+            "last_commit": "2026-10-13T14:56:40Z",
+            "open_issues": 401,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8395,
+            "stars": 8394,
             "topics": [
               "docs",
               "mkdocs",
@@ -375,11 +375,11 @@
             "id": 873328,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T17:03:31Z",
-            "open_issues": 2288,
+            "last_commit": "2026-10-13T17:31:40Z",
+            "open_issues": 2276,
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 45533,
+            "stars": 45550,
             "topics": [
               "apm",
               "crash-reporting",
@@ -465,7 +465,7 @@
             "open_issues": 9,
             "owner": "watermelontools",
             "repo": "watermelon",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "code-review",
               "documentation",
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:46:47.169Z",
+    "last_updated": "2026-10-13T17:33:43.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome open companies.",
