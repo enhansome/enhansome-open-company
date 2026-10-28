@@ -19,7 +19,7 @@
             "open_issues": 735,
             "owner": "arduino",
             "repo": "Arduino",
-            "stars": 14689,
+            "stars": 14692,
             "topics": [
               "arduino",
               "ide"
@@ -109,7 +109,7 @@
             "id": 15193430,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:08:32Z",
+            "last_commit": "2026-10-28T16:14:24Z",
             "open_issues": 414,
             "owner": "codecombat",
             "repo": "codecombat",
@@ -134,7 +134,7 @@
             "open_issues": 457,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71461,
+            "stars": 71448,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -164,7 +164,7 @@
             "open_issues": 457,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71461,
+            "stars": 71448,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -190,11 +190,11 @@
             "id": 613010835,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T14:09:31Z",
-            "open_issues": 259,
+            "last_commit": "2026-10-28T16:07:27Z",
+            "open_issues": 252,
             "owner": "documenso",
             "repo": "documenso",
-            "stars": 15587,
+            "stars": 15592,
             "topics": [
               "digital-signature",
               "document-signing",
@@ -251,8 +251,8 @@
             "id": 5337437,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T08:26:16Z",
-            "open_issues": 173,
+            "last_commit": "2026-10-28T12:23:57Z",
+            "open_issues": 181,
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 475,
@@ -275,11 +275,11 @@
             "id": 18715057,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T06:00:06Z",
+            "last_commit": "2026-10-27T17:08:55Z",
             "open_issues": 100,
             "owner": "neocities",
             "repo": "neocities",
-            "stars": 1927,
+            "stars": 1928,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:39.748Z"
@@ -321,7 +321,7 @@
             "open_issues": 158,
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5659,
+            "stars": 5660,
             "topics": [
               "monorepo",
               "pgp",
@@ -348,8 +348,8 @@
             "id": 841835,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:47:53Z",
-            "open_issues": 383,
+            "last_commit": "2026-10-27T22:40:52Z",
+            "open_issues": 384,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
             "stars": 8403,
@@ -375,11 +375,11 @@
             "id": 873328,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T15:49:07Z",
-            "open_issues": 2152,
+            "last_commit": "2026-10-28T16:33:09Z",
+            "open_issues": 2107,
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 45661,
+            "stars": 45669,
             "topics": [
               "apm",
               "crash-reporting",
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:51:01.796Z",
+    "last_updated": "2026-10-28T16:35:05.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community-curated list of awesome open companies.",
@@ -492,7 +492,7 @@
       "open_issues": 12,
       "owner": "opencompany",
       "repo": "awesome-open-company",
-      "stars": 1300,
+      "stars": 1303,
       "topics": []
     },
     "original_repository_sha": "8bd9890f69cd4b7b51b8c100a6e64f028f47b611",
